@@ -1,0 +1,52 @@
+.App {
+  border-radius: 15px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.list {
+  padding: 20px;
+  width: 150px;
+}
+
+.list1 {
+  background-color: #252526;
+  color: #beaf87;
+}
+
+.list2 {
+  background-color: #beaf87;
+}
+.list3 {
+  background-color: #252526;
+  color: #beaf87;
+}
+.list4 {
+  background-color: #e6e7e8;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+
+}
+.list {
+ padding: 20px;
+ border-radius: 10px;
+}
+
+.list__items {
+  font-size: 25px
+;
+}
